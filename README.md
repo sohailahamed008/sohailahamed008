@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Sohail Ahamed</h1>
 <h3 align="center">An aspiring Software Engineer from India.</h3>
-
-- 🔭 I’m currently working on [DownImage](https://github.com/sohailahamed008/DownImg.git)
-
 - 📫 How to reach me **sohailahamed008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
