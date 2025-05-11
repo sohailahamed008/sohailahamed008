@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mohammed Sohail Ahamed</h1>
-<h3 align="center">An aspiring Software Engineer from India.</h3>
+<h3 align="center">An aspiring Data analyst from India.</h3>
 - 📫 How to reach me **sohailahamed008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
